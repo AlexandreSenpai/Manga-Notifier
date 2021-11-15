@@ -1,0 +1,292 @@
+[
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "requests",
+        "description": "requests",
+        "isExtraImport": true,
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "urljoin",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "Scrapper",
+        "importPath": "notifier.lib.crawlers.scrapper",
+        "description": "notifier.lib.crawlers.scrapper",
+        "isExtraImport": true,
+        "detail": "notifier.lib.crawlers.scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "Chapter",
+        "importPath": "notifier.lib.crawlers.entities",
+        "description": "notifier.lib.crawlers.entities",
+        "isExtraImport": true,
+        "detail": "notifier.lib.crawlers.entities",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "Chapter",
+        "importPath": "notifier.lib.crawlers.entities.chapter",
+        "description": "notifier.lib.crawlers.entities.chapter",
+        "isExtraImport": true,
+        "detail": "notifier.lib.crawlers.entities.chapter",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "notifier.lib.database",
+        "description": "notifier.lib.database",
+        "isExtraImport": true,
+        "detail": "notifier.lib.database",
+        "documentation": {}
+    },
+    {
+        "label": "Manga",
+        "importPath": "notifier.lib.database",
+        "description": "notifier.lib.database",
+        "isExtraImport": true,
+        "detail": "notifier.lib.database",
+        "documentation": {}
+    },
+    {
+        "label": "Manga",
+        "importPath": "notifier.lib.database",
+        "description": "notifier.lib.database",
+        "isExtraImport": true,
+        "detail": "notifier.lib.database",
+        "documentation": {}
+    },
+    {
+        "label": "SourceInterface",
+        "importPath": "notifier.lib.sources.interface",
+        "description": "notifier.lib.sources.interface",
+        "isExtraImport": true,
+        "detail": "notifier.lib.sources.interface",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "ToastNotifier",
+        "importPath": "win10toast_click",
+        "description": "win10toast_click",
+        "isExtraImport": true,
+        "detail": "win10toast_click",
+        "documentation": {}
+    },
+    {
+        "label": "Source",
+        "importPath": "notifier.lib.sources.source",
+        "description": "notifier.lib.sources.source",
+        "isExtraImport": true,
+        "detail": "notifier.lib.sources.source",
+        "documentation": {}
+    },
+    {
+        "label": "Notifier",
+        "importPath": "notifier",
+        "description": "notifier",
+        "isExtraImport": true,
+        "detail": "notifier",
+        "documentation": {}
+    },
+    {
+        "label": "Sentinel",
+        "importPath": "notifier",
+        "description": "notifier",
+        "isExtraImport": true,
+        "detail": "notifier",
+        "documentation": {}
+    },
+    {
+        "label": "MangaRead",
+        "importPath": "notifier.lib.sources.implementations.mangaread",
+        "description": "notifier.lib.sources.implementations.mangaread",
+        "isExtraImport": true,
+        "detail": "notifier.lib.sources.implementations.mangaread",
+        "documentation": {}
+    },
+    {
+        "label": "Chapter",
+        "kind": 6,
+        "importPath": "notifier.lib.crawlers.entities.chapter",
+        "description": "notifier.lib.crawlers.entities.chapter",
+        "peekOfCode": "class Chapter:\n    chapter: str\n    url: str\n    released_date: str\n    already_seen: int = field(default=0)",
+        "detail": "notifier.lib.crawlers.entities.chapter",
+        "documentation": {}
+    },
+    {
+        "label": "Scrapper",
+        "kind": 6,
+        "importPath": "notifier.lib.crawlers.scrapper",
+        "description": "notifier.lib.crawlers.scrapper",
+        "peekOfCode": "class Scrapper:\n    @staticmethod\n    def make_request(url: str, method: str = 'get', **kwargs) -> bytes:\n        response = request(method=method, url=url, **kwargs)\n        if response.status_code == 200:\n            return response.content\n    @staticmethod\n    def get_soup_instance() -> BeautifulSoup:\n        return BeautifulSoup",
+        "detail": "notifier.lib.crawlers.scrapper",
+        "documentation": {}
+    },
+    {
+        "label": "MangaRead",
+        "kind": 6,
+        "importPath": "notifier.lib.sources.implementations.mangaread",
+        "description": "notifier.lib.sources.implementations.mangaread",
+        "peekOfCode": "class MangaRead:\n    __BASE_URL = \"https://mangaread.co\"\n    __SOUP = Scrapper.get_soup_instance()\n    def __init__(self, manga_slug: str) -> None:\n        self.manga_slug = manga_slug\n    def get_chapter_list(self) -> List[Chapter]:\n        soup = self.__SOUP(Scrapper.make_request(url=urljoin(self.__BASE_URL, f'/manga/{self.manga_slug}/ajax/chapters/'), method='POST'), 'html.parser')\n        chapters = soup.find_all('li', class_='wp-manga-chapter')\n        chapters_list = []\n        for chapter in chapters:",
+        "detail": "notifier.lib.sources.implementations.mangaread",
+        "documentation": {}
+    },
+    {
+        "label": "SourceInterface",
+        "kind": 6,
+        "importPath": "notifier.lib.sources.interface",
+        "description": "notifier.lib.sources.interface",
+        "peekOfCode": "class SourceInterface(ABC):\n  manga_slug: str\n  @abstractmethod\n  def get_chapter_list(self, manga_slug: str) -> List[Chapter]: pass\n  @abstractmethod\n  def get_list_of_pages(self, manga_slug: str, chapter: str) -> List[str]: pass",
+        "detail": "notifier.lib.sources.interface",
+        "documentation": {}
+    },
+    {
+        "label": "Source",
+        "kind": 6,
+        "importPath": "notifier.lib.sources.source",
+        "description": "notifier.lib.sources.source",
+        "peekOfCode": "class Source:\n  def __init__(self, plugin: SourceInterface) -> None:\n    self.plugin = plugin\n    self.database = Database().session\n  def look_for_new_chapters(self) -> Manga:\n    last_chapter = sorted(self.plugin.get_chapter_list(), key=lambda x: x.chapter, reverse=True)[0]\n    chapters = self.database.query(Manga).filter_by(slug=self.plugin.manga_slug,\n                                                    chapter=last_chapter.chapter).all()\n    if len(chapters) == 0:\n      new_chapter = Manga(slug=self.plugin.manga_slug,",
+        "detail": "notifier.lib.sources.source",
+        "documentation": {}
+    },
+    {
+        "label": "Sentinel",
+        "kind": 6,
+        "importPath": "notifier.lib.workers.sentinel",
+        "description": "notifier.lib.workers.sentinel",
+        "peekOfCode": "class Sentinel:\n  __threads = []\n  __notificator = ToastNotifier()\n  def __init__(self, watch_interval: int = 3600):\n    self.watch_interval = watch_interval\n  def notify(self, title: str, message: str) -> None:\n    if self.__notificator.notification_active():\n      time.sleep(10)\n    self.__notificator.show_toast(title=title, \n                                  msg=message,",
+        "detail": "notifier.lib.workers.sentinel",
+        "documentation": {}
+    },
+    {
+        "label": "notifiers",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "notifiers = [Notifier(MangaRead(manga_slug='majime-succubus-hiiragi-san')),\n             Notifier(MangaRead(manga_slug='monster-musume-no-iru-nichijou'))]\nsentinel = Sentinel()\nsentinel.watch(notifiers)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "sentinel",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "sentinel = Sentinel()\nsentinel.watch(notifiers)",
+        "detail": "main",
+        "documentation": {}
+    }
+]
